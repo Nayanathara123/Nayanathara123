@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer | Java | C# | PHP | Python | JavaScript | Oracle | Bilingual </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=Full+Stack+Developer;Java+C#+PHP+Python+Developer;Spring+Boot+AI+Microservices+Learner;Future+Goal+Is+Project+Manager" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=Full+Stack+Developer;Java+CSharpe+PHP+Python+Developer;Spring+Boot+AI+Microservices+Learner;Future+Goal+Is+Project+Manager" />
 </p>
 
 ## 👩‍💻 About Me
