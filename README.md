@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nayanathara</h1>
-<h3 align="center">Full Stack Developer | JavaScript | PHP | Spring Boot</h3>
+<h3 align="center">Full Stack Developer | Java | C# | PHP | Python | JavaScript | Oracle | Bilingual </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=Full+Stack+Developer;Spring+Boot+Learner;JavaScript+Developer;Future+Project+Manager" />
@@ -8,9 +8,11 @@
 ## 👩‍💻 About Me
 
 - 🔭 Currently working on Full Stack Development
+- 💬 Ask me about Java, C#, PHP, Python, JavaScript, HTML, CSS
+- 🤖 Front-end experince in Javascript, JQuery, Vue.js, HTML, CSS, Bootstrap
+- 🟡 Database experience in Oracle, MS SQL Server, MySQL
 - 🌱 Learning Spring Boot, Microservices, AI Development
 - 🇯🇵 Improving Japanese to JLPT N1 level
-- 💬 Ask me about PHP, JavaScript, HTML, CSS
 - 🎯 Future Goal: Become a Project Manager
 
 ## 🚀 Tech Stack
