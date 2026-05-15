@@ -18,7 +18,7 @@
 ## 🚀 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,php,C#,ASP.NET,java,spring,python,oracle,mysql,junit,html,css,mysql,git,github,joomla,laravel" />
+  <img src="https://skillicons.dev/icons?i=js,php,cs,dotnet,java,spring,python,mysql,html,css,mysql,git,github,laravel" />
 </p>
 
 ## 📊 GitHub Stats
